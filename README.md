@@ -66,6 +66,8 @@ A compilação e testes automatizados básicos foram realizados, **mas ainda fal
 
 O ZIP de distribuição contém o instalador e o arquivo **LEIA-ME-DogMint-1.7.23.txt** com instruções, correções e limitações da versão.
 
+As notas oficiais do pré-lançamento Linux estão em [RELEASE_NOTES_v1.7.23.md](RELEASE_NOTES_v1.7.23.md). O arquivo ZIP será disponibilizado em Releases após o anexo manual pelo mantenedor.
+
 ## 🛠️ Projeto e direitos
 
 Projeto mantido pela conta [cachorroapk](https://github.com/cachorroapk). Os termos de licença do DogMint ainda precisam ser definidos e publicados. Bibliotecas e componentes de terceiros mantêm suas próprias licenças.
