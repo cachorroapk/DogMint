@@ -10,7 +10,19 @@
 - Linux **x86-64 / amd64**, principalmente distribuições baseadas em Debian, como **Linux Mint e Ubuntu**.
 - Pacote instalador: `.deb`.
 - Requer Python 3, Tkinter e dependências indicadas pelo instalador.
-- Versões para Windows e macOS são projetos separados, ainda em fase beta.
+- Além do Linux, o projeto tem versões beta/experimentais para **Windows, macOS e Steam Deck**. Cada plataforma exige testes e instaladores próprios.
+
+## 🚧 Betas por plataforma
+
+| Plataforma | Versão / estágio | Distribuição |
+| --- | --- | --- |
+| 🐧 **Linux Mint / Ubuntu / Debian** | **1.7.23 — testes** | Pacote `.deb` preparado; publicação em Releases pendente |
+| 🪟 **Windows** | **Beta 0.6** | Pacote de testes preparado; publicação em Releases pendente |
+| 🍎 **macOS** | **Beta 0.2.0** | Pacote de testes preparado; publicação em Releases pendente |
+| 🎮 **Steam Deck (SteamOS)** | **Beta experimental** | Suporte em desenvolvimento; pacote de download ainda não confirmado |
+
+> **Atenção:** versões beta podem conter falhas e ter recursos indisponíveis. Os pacotes de Windows, macOS e Steam Deck não estão publicados como Releases neste repositório até o momento. Não é garantida compatibilidade total, especialmente no Steam Deck/SteamOS.
+
 
 ## ✨ Recursos
 
